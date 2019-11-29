@@ -1,0 +1,715 @@
+Episode 1
+Day 1
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 3
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 4
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 5
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 7
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 8
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 11
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 12
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 13
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 14
+Prisoner Selected for the interrogation:  1
+The prisoner chose to tell.
+
+
+
+
+Episode 2
+Day 1
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 3
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 4
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 5
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 7
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 8
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 10
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 11
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 12
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 13
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 14
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 15
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 16
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 17
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 18
+Prisoner Selected for the interrogation:  2
+The prisoner chose to tell.
+
+
+
+
+Episode 3
+Day 1
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 3
+Prisoner Selected for the interrogation:  3
+The prisoner chose to tell.
+
+
+
+
+Episode 4
+Day 1
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 3
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 4
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 5
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 7
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 8
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 9
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 11
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 12
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 13
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 14
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 15
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 16
+Prisoner Selected for the interrogation:  3
+The prisoner chose to tell.
+
+
+
+
+Episode 5
+Day 1
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 3
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 4
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 5
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 7
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 8
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 11
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 12
+Prisoner Selected for the interrogation:  2
+The prisoner chose to tell.
+
+
+
+
+Episode 6
+Day 1
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 3
+Prisoner Selected for the interrogation:  1
+The prisoner chose to tell.
+
+
+
+
+Episode 7
+Day 1
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 3
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 4
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 5
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 6
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 7
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 8
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 11
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 12
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 13
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 14
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 15
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 16
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 17
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 18
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 19
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 20
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 21
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 22
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 23
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 24
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 25
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 26
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 27
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 28
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 29
+Prisoner Selected for the interrogation:  3
+The prisoner chose to tell.
+
+
+
+
+Episode 8
+Day 1
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 3
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 4
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 5
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 7
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 8
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 11
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 12
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 13
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 14
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 15
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 16
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 17
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 18
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 19
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 20
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 21
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 22
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 23
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 24
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 25
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 26
+Prisoner Selected for the interrogation:  3
+The prisoner chose to tell.
+
+
+
+
+Episode 9
+Day 1
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 3
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 4
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 5
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 7
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 8
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 11
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 12
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 13
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 14
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 15
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 16
+Prisoner Selected for the interrogation:  1
+The prisoner chose to tell.
+
+
+
+
+Episode 10
+Day 1
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 2
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 3
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 4
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 5
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 6
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 7
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 8
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 9
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 10
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 11
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 12
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 13
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+The prisoner toggled the light bulb.
+
+Day 14
+Prisoner Selected for the interrogation:  1
+The prisoner decided to do nothing.
+
+Day 15
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 16
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 17
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 18
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 19
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 20
+Prisoner Selected for the interrogation:  3
+The prisoner decided to do nothing.
+
+Day 21
+Prisoner Selected for the interrogation:  2
+The prisoner decided to do nothing.
+
+Day 22
+Prisoner Selected for the interrogation:  1
+The prisoner chose to tell.
